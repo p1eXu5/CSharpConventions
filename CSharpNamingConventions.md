@@ -93,7 +93,7 @@ string strName;
 
 ***Why: consistent with the Microsoft's .NET Framework and Visual Studio IDE makes determining types very easy (via tooltips). In general you want to avoid type indicators in any identifier.***
 
-### 4. Do not use All Caps for constants:
+### 4. Do use All Caps for constants:
 
 ```csharp
 // Correct
