@@ -2,7 +2,7 @@
 
 | Commit Sufix     | Description                                           | Examples                                                            |
 |:-----------------|:------------------------------------------------------|:--------------------------------------------------------------------|
-| chore:           | regular development flow commit                       | chore: add ApplicationDbContext                                     |
+| [ chore ]           | regular development flow commit                       | chore: add ApplicationDbContext                                     |
 | test:            | regular test flow commit                              | test: ensure that GlobalFunctionsClass's: <br/> SetSecurityClaims_UserExists_SetsSecurityClaims |
 | ref:             | refactoring                                           | ref: replace IEnumerable to ICollection in Customer domain model    |
 | fix:             | a bug fixing commit                                   | fix: Activator parameter in the CityLocationMapper                  |
