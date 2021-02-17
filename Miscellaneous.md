@@ -6,7 +6,7 @@ Miscellaneous
   ```xml
     <LangVersion>9.0</LangVersion>
     <Nullable>enable</Nullable>
-    <WarningsAsErrors>CS8600;CS8602;CS8603;CS8604;CS8632;CS8669</WarningsAsErrors>
+    <WarningsAsErrors>CS8600;CS8602;CS8603;CS8604;CS8632;CS8669;CS8714</WarningsAsErrors>
   ```
   
   - CS8600: Converting null literal or possible null value to non-nullable type.
